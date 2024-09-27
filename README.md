@@ -19,7 +19,8 @@ The current version is **0.10.2**, which includes foundational features with pla
 ## 📜 Overview
 
 MailRanger is a robust email access checker designed for educational purposes. It allows users to verify email accounts against IMAP servers and search for specific keywords within the inbox. Built with Python, this tool employs multithreading for efficient processing and provides a clear console interface to monitor progress.
-
+---
+![MailRanger X](https://raw.githubusercontent.com/EquipeRanger/MailRangerX/refs/heads/main/final.png)
 ## 🔧 Features
 
 - **IMAP Server Integration:** Automatically detects IMAP servers for various email domains.
@@ -46,3 +47,4 @@ You can install the required packages using:
 
 ```bash
 pip install -r requirements.txt
+
